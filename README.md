@@ -24,3 +24,19 @@ If you haven't already cloned the repository, run this command in your terminal:
 
 ```bash
 git clone https://github.com/your-username/desktop-cleaner.git
+```
+Usage
+Run the Application:
+
+To run the desktop cleaner, execute the Python file:
+
+```bash
+python desktop_cleaner.py
+```
+Provide the Folder Path:
+
+The program will prompt you to enter the path of the folder you wish to clean. For example, if you want to clean your desktop:
+
+```bash
+Enter the path of the folder to clean: C:\Users\YourName\Desktop
+```
